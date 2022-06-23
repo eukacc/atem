@@ -1,0 +1,7 @@
+[
+{"url":"pz1.wav","type":"audio","bank":"pa","n":0},
+{"url":"pz2.wav","type":"audio","bank":"pe","n":1},
+{"url":"pz3.wav","type":"audio","bank":"pi","n":2},
+{"url":"pz4.wav","type":"audio","bank":"po","n":3},
+{"url":"pz5.wav","type":"audio","bank":"pu","n":4},
+]
